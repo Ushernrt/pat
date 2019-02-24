@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  1002.cpp
+  Linking objects
+  10012.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\10012\bin\x64\Debug\10012.out

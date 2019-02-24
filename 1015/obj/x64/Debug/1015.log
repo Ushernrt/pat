@@ -1,0 +1,11 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  源.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1015\源.cpp(26,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\shixi\Desktop\PAT 刷题\1015\源.cpp(26,23): warning :   for (size_t i = 0; i < N; i++)
+C:\Users\shixi\Desktop\PAT 刷题\1015\源.cpp(26,23): warning :                      ~~^~~
+  Linking objects
+  1015.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1015\bin\x64\Debug\1015.out

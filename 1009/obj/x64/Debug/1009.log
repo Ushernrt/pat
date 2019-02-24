@@ -1,0 +1,17 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(56,16): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(56,16): warning :   temp = getchar();
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(56,16): warning :          ~~~~~~~^~
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(61,18): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(61,18): warning :     temp = getchar();
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(61,18): warning :            ~~~~~~~^~
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(65,17): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(65,17): warning :    temp = getchar();
+C:\Users\shixi\Desktop\PAT 刷题\1009\main.cpp(65,17): warning :           ~~~~~~~^~
+  Linking objects
+  1009.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1009\bin\x64\Debug\1009.out

@@ -1,0 +1,14 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(19,9): warning : unused variable ‘len_s34’ [-Wunused-variable]
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(19,9): warning :   size_t len_s34 = min(s3.size(), s4.size());
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(19,9): warning :          ^~~~~~~
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(20,9): warning : variable ‘flag’ set but not used [-Wunused-but-set-variable]
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(20,9): warning :   size_t flag = 0;
+C:\Users\shixi\Desktop\PAT 刷题\1014\main.cpp(20,9): warning :          ^~~~
+  Linking objects
+  1014.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1014\bin\x64\Debug\1014.out

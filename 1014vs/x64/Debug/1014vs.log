@@ -1,0 +1,6 @@
+﻿  1014vs.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1014vs\1014vs.cpp(46): warning C4477: “printf”: 格式字符串“%02d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\Users\shixi\Desktop\PAT 刷题\1014vs\1014vs.cpp(46): note: 请考虑在格式字符串中使用“%zd”
+C:\Users\shixi\Desktop\PAT 刷题\1014vs\1014vs.cpp(49): warning C4477: “printf”: 格式字符串“%02d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\Users\shixi\Desktop\PAT 刷题\1014vs\1014vs.cpp(49): note: 请考虑在格式字符串中使用“%zd”
+  1014vs.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\x64\Debug\1014vs.exe

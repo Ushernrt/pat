@@ -1,0 +1,17 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\1006\main.cpp(13,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\shixi\Desktop\1006\main.cpp(13,23): warning :   for (size_t i = 0; i < count[2]; i++)
+C:\Users\shixi\Desktop\1006\main.cpp(13,23): warning :                      ~~^~~~~~~~~~
+C:\Users\shixi\Desktop\1006\main.cpp(17,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\shixi\Desktop\1006\main.cpp(17,23): warning :   for (size_t i = 0; i < count[1]; i++)
+C:\Users\shixi\Desktop\1006\main.cpp(17,23): warning :                      ~~^~~~~~~~~~
+C:\Users\shixi\Desktop\1006\main.cpp(21,23): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\shixi\Desktop\1006\main.cpp(21,23): warning :   for (size_t i = 0; i < count[0]; i++)
+C:\Users\shixi\Desktop\1006\main.cpp(21,23): warning :                      ~~^~~~~~~~~~
+  Linking objects
+  1006.vcxproj -> C:\Users\shixi\Desktop\1006\bin\x64\Debug\1006.out

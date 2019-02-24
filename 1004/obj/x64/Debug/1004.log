@@ -1,0 +1,8 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  1004.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1004\bin\x64\Debug\1004.out

@@ -1,0 +1,12 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1008\main.cpp(19,1): warning : no return statement in function returning non-void [-Wreturn-type]
+C:\Users\shixi\Desktop\PAT 刷题\1008\main.cpp(19,1): warning :  }
+C:\Users\shixi\Desktop\PAT 刷题\1008\main.cpp(19,1): warning :  ^
+  源.cpp
+  Linking objects
+  1008.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1008\bin\x64\Debug\1008.out

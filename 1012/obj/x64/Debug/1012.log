@@ -1,0 +1,11 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1012\main.cpp(61,20): warning : conversion to ‘int’ from ‘std::vector<int>::size_type {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\shixi\Desktop\PAT 刷题\1012\main.cpp(61,20): warning :    int num = v4.size();
+C:\Users\shixi\Desktop\PAT 刷题\1012\main.cpp(61,20): warning :              ~~~~~~~^~
+  Linking objects
+  1012.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1012\bin\x64\Debug\1012.out

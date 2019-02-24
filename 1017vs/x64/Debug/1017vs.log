@@ -1,0 +1,4 @@
+﻿  1017vs.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1017vs\1017vs.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\shixi\Desktop\PAT 刷题\1017vs\1017vs.cpp(17): warning C4101: “xiayiwei”: 未引用的局部变量
+  1017vs.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\x64\Debug\1017vs.exe

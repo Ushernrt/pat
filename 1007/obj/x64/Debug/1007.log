@@ -1,0 +1,11 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1007\main.cpp(9,22): warning : conversion to ‘int’ from ‘double’ may alter its value [-Wfloat-conversion]
+C:\Users\shixi\Desktop\PAT 刷题\1007\main.cpp(9,22): warning :   int end = sqrt(num) + 1;
+C:\Users\shixi\Desktop\PAT 刷题\1007\main.cpp(9,22): warning :             ~~~~~~~~~~^~~
+  Linking objects
+  1007.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1007\bin\x64\Debug\1007.out

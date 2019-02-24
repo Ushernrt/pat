@@ -1,0 +1,14 @@
+﻿  Validating sources
+  Copying sources remotely to '192.168.137.117'
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(16,25): warning : conversion to ‘int’ from ‘size_t {aka long unsigned int}’ may alter its value [-Wconversion]
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(16,25): warning :     int_prime[index++] = i;
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(16,25): warning :                          ^
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(29,34): warning : comparison between signed and unsigned integer expressions [-Wsign-compare]
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(29,34): warning :   for (size_t i = m - 1, k = 1; i < n - 1; i++, ++k)
+C:\Users\shixi\Desktop\PAT 刷题\1013\main.cpp(29,34): warning :                                 ~~^~~~~~~
+  Linking objects
+  1013.vcxproj -> C:\Users\shixi\Desktop\PAT 刷题\1013\bin\x64\Debug\1013.out

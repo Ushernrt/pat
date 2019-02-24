@@ -1,0 +1,1 @@
+g++ -o "/home/xiu/projects/1014/bin/x64/Debug/1014.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/xiu/projects/1014/obj/x64/Debug/main.o
