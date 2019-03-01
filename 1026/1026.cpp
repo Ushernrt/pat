@@ -2,10 +2,26 @@
 //
 
 #include <iostream>
+#include <cstdio>
+using std::cout;
+using std::endl;
+
+constexpr auto CLK_TCK = 100;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	int c1, c2;
+	std::cin >> c1 >> c2;
+	int ss, mm, hh;
+	ss = (c2 - c1)/100;
+	if ((c2 - c1) % 100 >= 50) {
+		++ss;
+	}
+	mm = ss / 60;
+	ss = ss % 60;
+	hh = mm / 60;
+	mm = mm % 60;
+	printf("%02d:%02d:%02d", hh, mm, ss);
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
