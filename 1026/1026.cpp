@@ -22,6 +22,7 @@ int main()
 	hh = mm / 60;
 	mm = mm % 60;
 	printf("%02d:%02d:%02d", hh, mm, ss);
+	return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
